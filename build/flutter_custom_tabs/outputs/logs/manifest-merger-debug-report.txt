@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_custom_tabs-1.2.1\android\src\main\AndroidManifest.xml:1:1-13
+INJECTED from C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_custom_tabs-1.2.1\android\src\main\AndroidManifest.xml:1:1-13
+INJECTED from C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_custom_tabs-1.2.1\android\src\main\AndroidManifest.xml:1:1-13
+	package
+		INJECTED from C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_custom_tabs-1.2.1\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_custom_tabs-1.2.1\android\src\main\AndroidManifest.xml:1:1-13
+		INJECTED from C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_custom_tabs-1.2.1\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_custom_tabs-1.2.1\android\src\main\AndroidManifest.xml:1:1-13
+uses-sdk
+INJECTED from C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_custom_tabs-1.2.1\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_custom_tabs-1.2.1\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_custom_tabs-1.2.1\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_custom_tabs-1.2.1\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_custom_tabs-1.2.1\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_custom_tabs-1.2.1\android\src\main\AndroidManifest.xml

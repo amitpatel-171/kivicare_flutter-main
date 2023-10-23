@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423110541598",
+    "project_id": "kivicare-8c774",
+    "storage_bucket": "kivicare-8c774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423110541598:android:90231be68dfb816a31890f",
+        "android_client_info": {
+          "package_name": "com.iqonic.kivicare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAFJ1m7lZNCLH0SR2y_rAZIQAS7i5anvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

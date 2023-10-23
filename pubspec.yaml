@@ -1,0 +1,87 @@
+name: kivicare_flutter
+description: A new Flutter application.
+
+publish_to: 'none'
+
+version: 6.0.1
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.5
+
+  # Firebase for crashlytics and googlesign in for calender
+  firebase_core: ^2.17.0
+  firebase_crashlytics: ^3.3.7
+  firebase_analytics: ^10.5.1
+  firebase_auth: ^4.10.1
+  google_sign_in: ^6.1.5
+  cloud_firestore: ^4.9.3
+  firebase_remote_config: ^4.2.7
+  google_fonts: ^6.1.0
+
+  #State Management Technique
+  mobx: ^2.1.3
+  flutter_mobx: ^2.0.6+5
+
+  nb_utils: ^6.0.4
+  scan: ^1.6.0
+   
+
+  #API calling
+  http: ^1.1.0
+  html: ^0.15.0
+  flutter_html: ^3.0.0-alpha.6
+  intl: ^0.18.1
+  
+
+  # Images and Icons
+  flutter_svg: ^2.0.7
+  font_awesome_flutter: ^10.3.0
+  cached_network_image: ^3.2.3
+  lottie: ^2.2.0
+  webview_flutter: ^4.4.1
+  flutter_slidable: ^3.0.0
+  percent_indicator: ^4.2.3
+
+  # bar chart
+  fl_chart: ^0.63.0
+
+  #APP Information
+  url_launcher: ^6.1.7
+  share: ^2.0.4
+  flutter_custom_tabs: ^1.0.4
+
+  # Pickers for image and file
+  image_picker: ^1.0.4
+  file_picker: ^5.5.0
+
+  flutter_localizations:
+    sdk: flutter
+  http_auth: ^1.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mobx_codegen: ^2.1.1
+  build_runner: ^2.3.3
+  #flutter packages pub run build_runner build --delete-conflicting-outputs
+
+dependency_overrides:
+  firebase_core_platform_interface: ^4.5.1
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/
+    - images/icons/
+    - images/doctorAvatars/
+    - images/services_icon/
+    - images/patientAvatars/
+    - images/flags/
+
